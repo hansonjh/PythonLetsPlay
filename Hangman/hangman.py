@@ -13,7 +13,7 @@ response = response.text
 words = response.splitlines()
 word = random.choice(words)
 
-print(word)
+print(word) # This will display the word chosen for ease of testing
 
 # word = input("Player one supply a challenge word: ")
 
