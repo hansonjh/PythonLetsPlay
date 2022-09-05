@@ -1,0 +1,97 @@
+{
+  "name": "Benham Falls",
+  "photos": [
+    {
+      "uri": "posts/media/BenhamFalls_qlWcQIKPzQ/74302529_10220800731911852_7488384641464795136_n_10220800731831850.jpg",
+      "creation_timestamp": 1573348913,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "latitude": 43.938658333333,
+              "longitude": -121.41318333333,
+              "upload_ip": "63.146.204.194",
+              "taken_timestamp": 1573348975,
+              "orientation": 1
+            }
+          ]
+        }
+      },
+      "title": "Benham Falls"
+    },
+    {
+      "uri": "posts/media/BenhamFalls_qlWcQIKPzQ/73218369_10220800733871901_4838280594519490560_n_10220800733831900.jpg",
+      "creation_timestamp": 1573348916,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "latitude": 43.939291666667,
+              "longitude": -121.41300833333,
+              "upload_ip": "63.146.204.194",
+              "taken_timestamp": 1573348975,
+              "orientation": 1
+            }
+          ]
+        }
+      },
+      "title": "Benham Falls"
+    },
+    {
+      "uri": "posts/media/BenhamFalls_qlWcQIKPzQ/74617653_10220800737311987_8417345407134203904_n_10220800737191984.jpg",
+      "creation_timestamp": 1573348919,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "latitude": 43.939288888889,
+              "longitude": -121.41302222222,
+              "upload_ip": "63.146.204.194",
+              "taken_timestamp": 1573348975,
+              "orientation": 1
+            }
+          ]
+        }
+      },
+      "title": "Benham Falls"
+    },
+    {
+      "uri": "posts/media/BenhamFalls_qlWcQIKPzQ/75418233_10220800739392039_1660719353483493376_n_10220800739312037.jpg",
+      "creation_timestamp": 1573348921,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "latitude": 43.936430555556,
+              "longitude": -121.411275,
+              "upload_ip": "63.146.204.194",
+              "taken_timestamp": 1573348975,
+              "orientation": 1
+            }
+          ]
+        }
+      },
+      "title": "Benham Falls"
+    }
+  ],
+  "cover_photo": {
+    "uri": "posts/media/BenhamFalls_qlWcQIKPzQ/74302529_10220800731911852_7488384641464795136_n_10220800731831850.jpg",
+    "creation_timestamp": 1573348913,
+    "media_metadata": {
+      "photo_metadata": {
+        "exif_data": [
+          {
+            "latitude": 43.938658333333,
+            "longitude": -121.41318333333,
+            "upload_ip": "63.146.204.194",
+            "taken_timestamp": 1573348975,
+            "orientation": 1
+          }
+        ]
+      }
+    },
+    "title": "Benham Falls"
+  },
+  "last_modified_timestamp": 1573348975,
+  "description": "Small side trip from a wrong turn."
+}
