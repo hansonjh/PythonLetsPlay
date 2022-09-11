@@ -38,7 +38,7 @@ def hangman(word):
         char = input(msg)
         if char in rletters:
             cind = rletters \
-                   .index(char)
+                .index(char)
             board[cind] = char
             rletters[cind] = '$'
         else:
@@ -48,7 +48,7 @@ def hangman(word):
         print("\n"
               .join(stages[0: e]))
         if "__" not in board:
-            print("You win!")
+            print("You guessed the right word!")
             print(" ".join(board))
             win = True
             break
@@ -56,7 +56,7 @@ def hangman(word):
         print("\n"
               .join(stages[0: \
               wrong]))
-        print("You lose! It was {}."
+        print("You lose! The word was {}."
               .format(word))
 
 hangman(word)
